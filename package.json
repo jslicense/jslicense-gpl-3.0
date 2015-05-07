@@ -1,0 +1,16 @@
+{
+  "name": "jslicense-gpl-3.0",
+  "description": "version 3 of the GNU General Public License",
+  "version": "0.0.0-prerelease",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "bugs": "https://github.com/jslicense/jslicense-gpl-3.0/issues",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "GPL-3.0",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": "jslicense/gpl-3.0"
+}
